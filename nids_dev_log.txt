@@ -17,3 +17,4 @@ Added DDoS activity analysis - 08/01/2024 12:52:22
 Updated monitoring dashboard - 08/01/2024 10:33:13
 Enhanced scanner performance - 08/06/2024 14:45:17
 Updated monitoring dashboard - 08/06/2024 12:44:57
+Enhanced logging functionality - 08/06/2024 16:01:03
