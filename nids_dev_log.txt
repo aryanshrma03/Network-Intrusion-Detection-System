@@ -1,3 +1,4 @@
 Added DDoS activity analysis - 08/07/2024 20:35:10
 Enhanced logging functionality - 08/07/2024 16:08:01
 Improved packet processing efficiency - 08/07/2024 14:50:48
+Added suspicious payload inspection - 08/07/2024 15:51:58
