@@ -20,3 +20,4 @@ Updated monitoring dashboard - 08/06/2024 12:44:57
 Enhanced logging functionality - 08/06/2024 16:01:03
 Updated network monitoring workflow - 08/11/2024 22:54:06
 Added anomaly-based detection support - 08/11/2024 11:55:27
+Improved protocol classification - 08/11/2024 12:38:27
