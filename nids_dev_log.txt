@@ -24,3 +24,4 @@ Improved protocol classification - 08/11/2024 12:38:27
 Enhanced alert notification system - 08/11/2024 16:21:08
 Added suspicious traffic detection - 08/12/2024 09:33:25
 Improved protocol classification - 08/12/2024 09:37:04
+Improved network traffic monitoring - 08/12/2024 11:54:37
