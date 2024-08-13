@@ -30,3 +30,4 @@ Enhanced network behavior analysis - 08/12/2024 18:41:02
 Improved TCP packet analysis - 08/12/2024 17:32:45
 Enhanced traffic visualization module - 08/13/2024 20:13:41
 Improved threat intelligence handling - 08/13/2024 19:10:08
+Initialized packet sniffing engine - 08/13/2024 10:51:07
