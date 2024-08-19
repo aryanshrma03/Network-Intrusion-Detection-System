@@ -43,3 +43,4 @@ Added SYN flood detection - 08/15/2024 22:26:04
 Enhanced real-time alert system - 08/15/2024 09:08:58
 Initialized packet sniffing engine - 08/15/2024 14:14:55
 Improved real-time traffic analysis - 08/19/2024 14:56:25
+Added brute force attack detection - 08/19/2024 18:34:31
