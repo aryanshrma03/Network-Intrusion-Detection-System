@@ -56,3 +56,4 @@ Added unauthorized access detection - 08/28/2024 17:31:57
 Improved suspicious session tracking - 08/28/2024 20:20:56
 Enhanced intrusion detection workflow - 08/28/2024 14:32:08
 Added traffic anomaly scoring - 08/28/2024 21:34:20
+Improved protocol classification - 08/23/2024 18:10:37
