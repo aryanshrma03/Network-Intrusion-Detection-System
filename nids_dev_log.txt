@@ -79,3 +79,4 @@ Updated detection rule engine - 09/03/2024 11:17:23
 Added port scanning detection - 09/04/2024 22:02:23
 Added anomaly-based detection support - 09/04/2024 19:47:20
 Improved suspicious session tracking - 09/04/2024 13:18:34
+Improved packet processing efficiency - 08/31/2024 11:02:45
