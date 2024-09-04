@@ -77,3 +77,4 @@ Enhanced alert notification system - 09/03/2024 18:44:39
 Improved protocol classification - 09/03/2024 18:11:11
 Updated detection rule engine - 09/03/2024 11:17:23
 Added port scanning detection - 09/04/2024 22:02:23
+Added anomaly-based detection support - 09/04/2024 19:47:20
