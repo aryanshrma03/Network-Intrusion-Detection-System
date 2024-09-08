@@ -92,3 +92,4 @@ Improved detection accuracy - 09/11/2024 22:47:28
 Improved TCP packet analysis - 09/11/2024 14:48:47
 Added suspicious payload inspection - 09/11/2024 22:40:17
 Improved rule-based filtering - 09/08/2024 21:12:37
+Updated intrusion signature database - 09/08/2024 09:14:36
