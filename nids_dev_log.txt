@@ -90,3 +90,4 @@ Added anomaly-based detection support - 09/11/2024 18:24:07
 Improved network traffic monitoring - 09/11/2024 21:20:52
 Improved detection accuracy - 09/11/2024 22:47:28
 Improved TCP packet analysis - 09/11/2024 14:48:47
+Added suspicious payload inspection - 09/11/2024 22:40:17
