@@ -102,3 +102,4 @@ Added suspicious traffic detection - 09/10/2024 19:08:35
 Added suspicious payload inspection - 09/10/2024 16:00:32
 Improved detection accuracy - 09/06/2024 19:54:48
 Added SYN flood detection - 09/14/2024 09:39:30
+Updated monitoring dashboard - 09/14/2024 14:53:40
