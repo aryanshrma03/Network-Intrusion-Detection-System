@@ -106,3 +106,4 @@ Updated monitoring dashboard - 09/14/2024 14:53:40
 Updated monitoring dashboard - 09/14/2024 18:18:45
 Initialized packet sniffing engine - 09/14/2024 14:46:11
 Enhanced packet filtering logic - 09/17/2024 09:53:53
+Added traffic anomaly scoring - 09/17/2024 09:21:52
