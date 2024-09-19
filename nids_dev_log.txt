@@ -115,3 +115,4 @@ Added DDoS activity analysis - 09/18/2024 10:12:14
 Updated network monitoring workflow - 09/18/2024 18:09:39
 Updated network monitoring workflow - 09/18/2024 12:10:49
 Enhanced scanner performance - 09/18/2024 22:02:37
+Added ICMP flood detection - 09/19/2024 21:27:04
