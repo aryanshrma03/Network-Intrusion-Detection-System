@@ -144,3 +144,4 @@ Improved event correlation logic - 09/27/2024 22:01:45
 Improved network traffic monitoring - 09/27/2024 22:09:17
 Updated detection rule engine - 09/27/2024 21:32:06
 Improved network traffic monitoring - 09/27/2024 12:23:18
+Updated firewall event integration - 09/28/2024 09:21:49
