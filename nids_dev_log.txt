@@ -152,3 +152,4 @@ Improved packet parsing module - 10/07/2024 16:03:55
 Updated firewall event integration - 10/07/2024 18:45:21
 Improved packet parsing module - 10/07/2024 13:10:00
 Improved scanner stability - 10/07/2024 19:44:15
+Added suspicious payload inspection - 10/07/2024 21:24:15
