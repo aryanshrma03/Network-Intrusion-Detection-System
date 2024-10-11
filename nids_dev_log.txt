@@ -162,3 +162,4 @@ Enhanced traffic visualization module - 10/09/2024 13:30:17
 Improved protocol classification - 10/09/2024 22:20:45
 Enhanced traffic visualization module - 10/09/2024 14:51:12
 Improved suspicious session tracking - 10/09/2024 12:54:17
+Updated detection rule engine - 10/11/2024 18:06:18
