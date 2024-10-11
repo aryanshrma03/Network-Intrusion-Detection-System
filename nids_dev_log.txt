@@ -165,3 +165,4 @@ Improved suspicious session tracking - 10/09/2024 12:54:17
 Updated detection rule engine - 10/11/2024 18:06:18
 Improved packet processing efficiency - 10/11/2024 13:05:33
 Enhanced packet capture stability - 10/11/2024 10:06:14
+Improved protocol classification - 10/11/2024 12:31:23
