@@ -168,3 +168,4 @@ Enhanced packet capture stability - 10/11/2024 10:06:14
 Improved protocol classification - 10/11/2024 12:31:23
 Updated network monitoring workflow - 10/11/2024 12:34:33
 Updated network monitoring workflow - 10/11/2024 12:03:14
+Improved rule-based filtering - 10/15/2024 09:56:35
