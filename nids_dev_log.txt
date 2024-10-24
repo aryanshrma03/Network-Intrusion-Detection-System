@@ -202,3 +202,4 @@ Enhanced packet filtering logic - 10/24/2024 15:58:43
 Added SYN flood detection - 10/24/2024 12:05:32
 Improved packet processing efficiency - 10/24/2024 09:25:50
 Initialized packet sniffing engine - 10/24/2024 09:11:15
+Added malicious IP detection - 10/24/2024 09:10:15
