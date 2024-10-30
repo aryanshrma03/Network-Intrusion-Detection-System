@@ -192,3 +192,4 @@ Added traffic anomaly scoring - 10/20/2024 20:19:00
 Improved packet processing efficiency - 10/20/2024 17:32:40
 Improved packet processing efficiency - 10/20/2024 17:30:14
 Enhanced packet capture stability - 10/20/2024 17:57:03
+Improved rule-based filtering - 10/30/2024 22:32:22
