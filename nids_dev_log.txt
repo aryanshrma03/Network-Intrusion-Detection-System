@@ -210,3 +210,4 @@ Updated firewall event integration - 11/05/2024 20:37:52
 Enhanced alert notification system - 11/05/2024 19:10:26
 Enhanced detection sensitivity - 11/06/2024 09:21:50
 Added anomaly-based detection support - 11/06/2024 15:32:27
+Added anomaly-based detection support - 11/06/2024 18:34:52
