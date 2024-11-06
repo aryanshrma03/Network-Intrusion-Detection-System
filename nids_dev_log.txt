@@ -212,3 +212,4 @@ Enhanced detection sensitivity - 11/06/2024 09:21:50
 Added anomaly-based detection support - 11/06/2024 15:32:27
 Added anomaly-based detection support - 11/06/2024 18:34:52
 Updated intrusion signature database - 11/06/2024 15:09:25
+Improved protocol classification - 11/06/2024 11:49:55
