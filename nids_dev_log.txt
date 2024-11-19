@@ -245,3 +245,4 @@ Improved detection accuracy - 11/20/2024 09:03:37
 Added ICMP flood detection - 11/20/2024 11:50:05
 Improved rule-based filtering - 11/19/2024 12:05:35
 Improved detection accuracy - 11/19/2024 22:29:51
+Added malicious IP detection - 11/19/2024 12:15:26
