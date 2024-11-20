@@ -242,3 +242,4 @@ Improved packet parsing module - 11/17/2024 09:41:07
 Added DDoS activity analysis - 11/17/2024 20:11:16
 Enhanced alert notification system - 11/20/2024 14:29:41
 Improved detection accuracy - 11/20/2024 09:03:37
+Added ICMP flood detection - 11/20/2024 11:50:05
