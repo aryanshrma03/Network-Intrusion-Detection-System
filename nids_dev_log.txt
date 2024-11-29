@@ -275,3 +275,4 @@ Enhanced packet capture stability - 11/29/2024 20:33:17
 Improved protocol classification - 11/29/2024 16:14:51
 Improved network traffic monitoring - 11/29/2024 11:17:23
 Improved detection accuracy - 11/29/2024 15:04:07
+Added port scanning detection - 11/29/2024 12:54:18
