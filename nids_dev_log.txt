@@ -273,3 +273,4 @@ Improved event correlation logic - 11/28/2024 21:32:18
 Improved event correlation logic - 11/28/2024 09:39:32
 Enhanced packet capture stability - 11/29/2024 20:33:17
 Improved protocol classification - 11/29/2024 16:14:51
+Improved network traffic monitoring - 11/29/2024 11:17:23
